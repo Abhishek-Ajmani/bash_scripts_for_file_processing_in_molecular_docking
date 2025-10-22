@@ -1,0 +1,1 @@
+This repository contains script which does the basic task while doing molecular docking work such as creating separate sdf files from a file containing all sdf files downloaded from pubchem database and other stuff. 
